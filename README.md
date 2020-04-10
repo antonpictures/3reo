@@ -27,5 +27,5 @@ then
 
 - 3. logos:
  3reo Orange https://i.imgur.com/KToebw4.jpg
- 3reo Glass Door https://imgur.com/gallery/FcrxWu1
+ 3reo Glass Door https://imgur.com/gallery/FcrxWu1 
  
