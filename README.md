@@ -1,7 +1,7 @@
 # 3reo
 Put 3reo TV on your device. 3reontertain the planet, the best content creators in the world  across all viewing devices out there.
 
-- The end game of this project is using AI bots to select video content from all publicly available sources within the colective interest, filter, categorize, edit and distribute it through channels of interest.
+- end game: Human Channel Moderators using AI bots to select video content from all publicly available sources within the colective interest, filter, categorize, edit and distribute it through the channels of interest.
 
 - story by George Anton coded by xaekai based on CyTube 
 - Marketing TRAILERS: on 3reo your family and friends can find a channel, a movie and a show for everyone. 
