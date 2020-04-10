@@ -26,5 +26,5 @@ then
 - iOS, Android, all TV OS Apps --> app list to be coded: https://i.imgur.com/88jdpHe.png
 
 - 3. logos:
-- 3reo Orange https://i.imgur.com/KToebw4.jpg
-- 3reo Glass Door https://imgur.com/gallery/FcrxWu1
+ 3reo Orange https://i.imgur.com/KToebw4.jpg
+ 3reo Glass Door https://imgur.com/gallery/FcrxWu1
