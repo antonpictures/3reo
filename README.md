@@ -7,13 +7,13 @@ coded by xaekai based on CyTube
 Marketing TRAILERS: on 3reo your family and friends can find a channel, a movie and a show for everyone. 
 $ modifying the index to embed and track the playlist of a loaded channel is complex, and will take several hours.
 $ when index feature is complete, Then we can move on to playlist editor in ACP.
--- 1. Home page https://i.imgur.com/br8d46Y.png
+- 1. Home page https://i.imgur.com/br8d46Y.png
 - UI Bring “the Video” module on Home Page. To be embedded near the Channels List
 - Hide # Connected
 - Hide Chat module (do not delete the code) 
        Global chat like on https://www.toonreboot.com/ can be activated by registered users who prefer to communicate by this       means while watching TV. 
 - Hide Poll module
--- 2. Admin page https://i.imgur.com/OoX29M2.jpg
+- 2. Admin page https://i.imgur.com/OoX29M2.jpg
 - UI add Edit Playlist button for every channel 
 - only admin can add/remove channels & modify all playlists
 then
