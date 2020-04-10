@@ -1,12 +1,12 @@
 # 3reo
 Put 3reo TV on your device. 3reontertain the planet, the best content creators in the world  across all viewing devices out there.
 
-The end game of this project is using AI bots to select video content from all publicly available sources within the colective interest, filter, categorize, edit and distribute it through channels of interest.
-story by George Anton
-coded by xaekai based on CyTube 
-Marketing TRAILERS: on 3reo your family and friends can find a channel, a movie and a show for everyone. 
-$ modifying the index to embed and track the playlist of a loaded channel is complex, and will take several hours.
-$ when index feature is complete, Then we can move on to playlist editor in ACP.
+- The end game of this project is using AI bots to select video content from all publicly available sources within the colective interest, filter, categorize, edit and distribute it through channels of interest.
+
+- story by George Anton coded by xaekai based on CyTube 
+- Marketing TRAILERS: on 3reo your family and friends can find a channel, a movie and a show for everyone. 
+- $ modifying the index to embed and track the playlist of a loaded channel is complex, and will take several hours.
+- $ when index feature is complete, Then we can move on to playlist editor in ACP.
 - 1. Home page https://i.imgur.com/br8d46Y.png
 - UI Bring “the Video” module on Home Page. To be embedded near the Channels List
 - Hide # Connected
@@ -25,6 +25,6 @@ then
       Comcast https://i.imgur.com/qOkiu4e.jpg
 - iOS, Android, all TV OS Apps --> app list to be coded: https://i.imgur.com/88jdpHe.png
 
-logos:
-3reo Orange https://i.imgur.com/KToebw4.jpg
-3reo Glass Door https://imgur.com/gallery/FcrxWu1
+- 3. logos:
+- 3reo Orange https://i.imgur.com/KToebw4.jpg
+- 3reo Glass Door https://imgur.com/gallery/FcrxWu1
