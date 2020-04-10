@@ -14,7 +14,7 @@ Put 3reo TV on your device. 3reotertain the planet, the best content creators in
 - 2. Admin page https://i.imgur.com/OoX29M2.jpg
 - UI add Edit Playlist button for every channel 
 - only admin can add/remove channels & modify all playlists
-then
+- ->
 - channel moderator accounts can manage only certain channels playlists feature to be added
 - the cytube Channel List to become Channel Grid, cable box 
     like UI examples:
