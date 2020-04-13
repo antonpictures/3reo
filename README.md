@@ -1,7 +1,7 @@
 # 3reo
 Put 3reo TV on your device. 3reotertain the planet, the best content creators in the world  across all viewing devices out there.
 
-- 1. HOME PAGE 3reo.com to look like this: 
+- 1. HOME PAGE 3reo.com to look like this: https://i.imgur.com/q8cQy7g.jpg
 - Shorten the Width of Column title #Connected rename it to #C.
 - To the right of NOW PLAYNG column, add column (AC) containing the text of next item in the channel's playlist.
 - Add Channel Logo Column to the left of #Channel column.
@@ -11,7 +11,7 @@ Put 3reo TV on your device. 3reotertain the planet, the best content creators in
 - One Global chat like toonreboot
 - add working hotkeys UP-DOWN (volume) LEFT-RIGHT (change channel) so people can work the website from the remote in the couch.
 -->
-- 2. ADMIN PAGE /account/channels to look like this: 
+- 2. ADMIN PAGE /account/channels to look like this: https://i.imgur.com/hbQFtn7.jpg
 - Add "Edit Playlist" button/s for every channel to be able to modify the selected playlist.
 --/
 - iOS, Android, all TV OS Apps --> app list to be coded: https://i.imgur.com/88jdpHe.png
