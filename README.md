@@ -4,11 +4,13 @@ Put 3reo TV on your device. 3reotertain the planet, the best content creators in
 - 1. HOME PAGE 3reo.com to look like this: https://i.imgur.com/q8cQy7g.jpg
 - Shorten the Width of Column title #Connected rename it to #C.
 - To the right of NOW PLAYNG column, add column (AC) containing the text of next item in the channel's playlist.
+- Order the Channel List by the channel# ascending.
 - Add Channel Logo Column to the left of #Channel column.
 - When scrolling the channels the screen (youtube embed) stays with the viewer. Either add a big SCROLL BAR, as pictured, to the left of the channel list TV grid or simply the TV embed plays picture-in-picture, floating video.
 - Above "Now Playing" Column title add the CURRENT TIME (CT) and to it's left current time minus 30 and to the right above the new AC column current time plus 30 minutes as pictured.
-- top left corner change the name of the website SYNC with 3REO. If There is a description of the website field: Free Live Cable TV Channels & Movies.
-- One Global chat like toonreboot
+- top left corner change the name of the website SYNC with 3REO. 
+- Change the title "Public Channels" with "Free Live Cable TV Channels & Movies"
+- One global chat like toonreboot
 - add working hotkeys UP-DOWN (volume) LEFT-RIGHT (change channel) so people can work the website from the remote in the couch.
 -->
 - 2. ADMIN PAGE /account/channels to look like this: https://i.imgur.com/hbQFtn7.jpg
