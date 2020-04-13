@@ -1,14 +1,22 @@
 # 3reo
 Put 3reo TV on your device. 3reotertain the planet, the best content creators in the world  across all viewing devices out there.
 
+- MAIN PAGE: 
+- Shorten the Width of Column title #Connected rename it to #C.
+- To the right of NOW PLAYNG column, add another column (AC) containing the next item in the channel's playlist.
+- add working hotkeys UP-DOWN (volume) LEFT-RIGHT (change channel) so people can work the website from the remote in the couch.
+- When scrolling the channels the screen stays with the viewer. Please either add a big SCROLL BAR, as pictured, to the left of the channel list TV grid or simply the TV embed plays picture-in-picture, floating video.
+- Above "Now Playing" Column title add the CURRENT TIME (CT) and to it's left current time minus 30 and to the right above the new AC column current time plus 30 minutes as pictured.
+- top left corner change the name of the website SYNC with 3REO. If There is a description of the website field: Free Live Cable TV Channels & Movies
+
+-->
 
 - iOS, Android, all TV OS Apps --> app list to be coded: https://i.imgur.com/88jdpHe.png
-- add working hotkeys UP-DOWN (volume) LEFT-RIGHT (change channel)
 
 
 - 1. Home page https://i.imgur.com/br8d46Y.png
 - UI Bring “the Video” module on Home Page. To be embedded near the Channels List
-- Hide # Connected
+
 - Hide Chat module (do not delete the code) 
        Global chat like on https://www.toonreboot.com/ can be activated by registered users who prefer to communicate by this       means while watching TV. 
 - Hide Poll module
