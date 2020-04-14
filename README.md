@@ -27,7 +27,7 @@ system updated
 pulling in required system packages now. nginx, mariadb-server, nodejs, npm
 - SOLVED 3reo.com "not secure" in browser bar. Godaddy: I can provide SSL however as hosting is not on domain the Url will need to be setup with SSL by hosting provider also. Buy SSL for website secured connection $79.99/year @godaddy = cloudflare
 --/
-- static:
+- static: the c y t u b e installation lives in /opt
 - $ modifying the index to embed and track the playlist of a loaded channel is complex, and will take several hours.
 - $ when index feature is complete, Then we can move on to playlist editor in ACP.
 - end game: Human Channel Moderators using AI bots to select video content from all publicly available sources within the colective interest, filter, categorize, edit and distribute it through the channels of interest. Story by George Anton coded by xaekai based on CyTube.
